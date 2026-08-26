@@ -11,7 +11,6 @@
 
 Typography 是一个本地优先的 Obsidian 桌面端插件。它可以把 Markdown 转换为适合微信公众号的富文本 HTML，并提供实时预览、主题排版、AI 写作、图片生成、文章检查和微信草稿发布能力。
 
-> 本地排版不需要 API Key，也不会调用 `md2wechat.cn/api/convert`。
 
 <!-- 截图后删除占位框，并取消注释：
 ![Typography 工作台](docs/images/01-workbench.png)
