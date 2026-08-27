@@ -23,43 +23,31 @@ Typography 在 Obsidian 内完成 Markdown 转微信公众号富文本、实时�
   <tbody>
     <tr>
       <td><strong>排版工作台</strong><br><br>在同一界面完成主题、字号和背景切换，支持手机与平板预览、富文本复制、HTML 导出和源文件实时刷新。</td>
-      <td><img src="picture/01-workbench.png" alt="Typography 排版工作台"></td>
+      <td><img src="pictures/01-workbench.png" alt="Typography 排版工作台"></td>
     </tr>
     <tr>
       <td><strong>主题与高级布局</strong><br><br>内置官网主题、可能吧主题、AI 主题和先锋模板；支持标题、引用、表格、图片、提示卡、时间线、指标等布局。</td>
-      <td><img src="picture/02-theme-preview.png" alt="主题与高级布局预览"></td>
+      <td><img src="pictures/02-theme-preview.png" alt="主题与高级布局预览"></td>
     </tr>
     <tr>
       <td><strong>代码块与发布兼容</strong><br><br>提供语法高亮和 Liquid Glass 预览效果；发布时自动使用微信可保留的渐变、圆角、阴影和等宽字体。</td>
-      <td><img src="picture/03-liquid-glass-code.png" alt="Liquid Glass 代码块"></td>
+      <td><img src="pictures/03-liquid-glass-code.png" alt="Liquid Glass 代码块"></td>
     </tr>
     <tr>
       <td><strong>模型控制中心</strong><br><br>支持 OpenAI-compatible、Anthropic、OpenRouter、DeepSeek、Codex Runtime 和自定义网关，文本与图片任务可独立路由。</td>
-      <td><img src="picture/04-model-center.png" alt="模型控制中心"></td>
+      <td><img src="pictures/04-model-center.png" alt="模型控制中心"></td>
     </tr>
     <tr>
       <td><strong>AI 任务面板</strong><br><br>提供文章写作、自然化、标题生成、封面和信息图生成，并显示执行步骤、模型、耗时与实时输出。</td>
-      <td><img src="picture/05-ai-task.png" alt="AI 任务面板"></td>
+      <td><img src="pictures/05-ai-task.png" alt="AI 任务面板"></td>
     </tr>
     <tr>
       <td><strong>微信公众号草稿</strong><br><br>上传封面和正文图片，替换本地图片地址并创建微信公众号草稿，完成后返回面向普通用户的结果提示。</td>
-      <td><img src="picture/06-wechat-draft.png" alt="微信公众号草稿创建结果"></td>
+      <td><img src="pictures/06-wechat-draft.png" alt="微信公众号草稿创建结果"></td>
     </tr>
   </tbody>
 </table>
 
-截图文件统一放入 `picture/`，文件名保持如下：
-
-```text
-picture/01-workbench.png
-picture/02-theme-preview.png
-picture/03-liquid-glass-code.png
-picture/04-model-center.png
-picture/05-ai-task.png
-picture/06-wechat-draft.png
-```
-
-模型控制中心和微信草稿截图需要遮挡 API Key、AppSecret、账号标识、本机路径和素材 ID。
 
 ## 核心能力
 
