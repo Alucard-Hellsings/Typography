@@ -119,3 +119,7 @@ npm run build
 ## License
 
 [MIT](LICENSE) © 2026 Alucard
+
+## 友链
+
+- [linux.do](https://linux.do/)
